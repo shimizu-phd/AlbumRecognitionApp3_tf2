@@ -4,4 +4,4 @@ Werkzeug
 gunicorn
 numpy
 Pillow
-tensorflow
+tensorflow-cpu
